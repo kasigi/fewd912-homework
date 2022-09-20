@@ -7,8 +7,25 @@ body {
   background: #F6F6F6;
 }
 
-p, li {
-  font-family: Georgia,Times,"Times New Roman",serif;
+
+
+p, 
+li {
+  font-family: Georgia, Times, "Times New Roman", serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+  color: rgb(00, 44, 100);
+  font-size: 20px;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+p a {
+  color: teal;
 }
 
 header {
