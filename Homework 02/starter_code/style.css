@@ -24,3 +24,37 @@ p {
 
 /* Background Image */
 /* https://s3-us-west-2.amazonaws.com/s.cdpn.io/2522641/coworking.jpg */
+
+.mmHeader {
+  background-color: black;
+  color: white;
+}
+
+.mmHeader a {
+  color: white;
+  text-decoration:none;
+}
+
+.mmHeader a:hover {
+  color: #ffd900;
+}
+
+.mmHeader h1 a {
+  color: #ffd900;
+}
+
+
+.tripleColumn {
+  display:flex;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  padding-top: 20px;
+  padding-bottom:20px;
+  background: orange;
+  gap: 20px;
+}
+
+.tripleColumnCol {
+  width:33%;
+  background: rebeccapurple;
+}
