@@ -202,7 +202,7 @@ a {
 .trulia-grid {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-gap: 15px;
+  gap: 15px;
   background-color: #e3e4e6;
   padding: 15px;
 

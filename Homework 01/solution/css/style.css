@@ -1,7 +1,7 @@
 body {
   color: #05080C;
   font-family: sans-serif;
-  font-size: 18px;
+  font-size: 20px;
   line-height: 1.5;
   margin: 0;
   background: #F6F6F6;
@@ -19,6 +19,15 @@ h2 {
   box-sizing:border-box;
 }
 
+h3 {
+  font-size: 2rem;
+  color: orangered;
+}
+
+article section {
+  font-size: 1rem;
+}
+
 p {
   font-family: Georgia,Times,"Times New Roman",serif;
 }
@@ -31,6 +40,7 @@ header {
 article {
   border-bottom: 5px solid #222222;
   padding: 0 100px;
+  font-size: 1rem;
 }
 
 article img {
