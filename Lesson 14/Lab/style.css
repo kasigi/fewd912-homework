@@ -1,0 +1,7 @@
+.row > * {
+    background: teal;
+    min-height: 200px;
+    border: 4px solid white;
+    color: white;
+    font-size: 40px;
+}
